@@ -59,7 +59,10 @@ die () {
     echo
     exit 1
 }
-
+.idea
+*.iws
+*.iml
+*.ipr
 # OS specific support (must be 'true' or 'false').
 cygwin=false
 msys=false
