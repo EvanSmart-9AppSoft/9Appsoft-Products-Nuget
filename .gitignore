@@ -16,7 +16,9 @@ build/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-
+cygwin=false
+msys=false
+darwin=false
 ### IntelliJ IDEA ###
 .idea
 *.iws
